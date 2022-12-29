@@ -1,5 +1,8 @@
 _repo: Adventures-of-the-Comte-de-la-Muette-during-the-Reign-of-Terror_69579
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69579-h/images/cover.jpg
 creator:
   author:
     agent_name: Capes, Bernard
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5344
     wikipedia: https://en.wikipedia.org/wiki/Bernard_Capes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69579#Adventures-of-the-Comte-de-la-Muette-during-the-Reign-of-Terror
 gutenberg_issued: '2022-12-19'
 identifiers:
   gutenberg: '69579'
